@@ -1,13 +1,10 @@
 body {
     background: #4f74db;
-    /*
-    background-image:url('');
-    backgruond-size: auto// 100vh;
-    height: 100vh;
-    */    
+    background-image:url('https://c.pxhere.com/photos/a2/e5/milky_way_star_night_sky_background_texture_night_star_clusters_sky-674001.jpg!d');
+    /*backdrop-filter: blur(2px);*/
     font-family: Arial;
+    height: 100vh;
   }
-  
   .menu{
     background-color: #314887;
   }
@@ -23,7 +20,7 @@ body {
   
   a{
     text-decoration:none;
-    color: red;
+    color: white;
   }
 
   a:hover{
@@ -33,9 +30,10 @@ body {
   .site-subtitle,
   .site-title{
     text-align: center;
-    color: purple;
+    color:white;
   }
 
+  
   .site-subtitle{
     font-style: italic;  
   }
